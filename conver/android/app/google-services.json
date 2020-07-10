@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998452691219",
+    "firebase_url": "https://conver-79935.firebaseio.com",
+    "project_id": "conver-79935",
+    "storage_bucket": "conver-79935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998452691219:android:7545a414c4c6992b73dae6",
+        "android_client_info": {
+          "package_name": "pankajnaik1920.conver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998452691219-9qp5g8mf6fsnvb3jlkpls4fbk7pgrf2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDey7-vUf25Vg67pFhLw6knPD7qKu_eiY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998452691219-9qp5g8mf6fsnvb3jlkpls4fbk7pgrf2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998452691219-li0vm5l6sg322ghr5e37kbk2p9hvc7sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pankajnaik1920.conver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
