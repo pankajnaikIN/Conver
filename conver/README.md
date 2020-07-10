@@ -1,4 +1,4 @@
-# conver
+# Conver
 
 A Messaging Application both for Android and iOS using Google's Flutter framework and Dart and for authentication and database administration used Firebase. This is a one-to-one messaging application like whatsApp.
 
